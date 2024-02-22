@@ -1,0 +1,330 @@
+@media screen and (max-width:1440px) {
+    
+}
+
+@media screen and (max-width:1180px) {
+    .home-banner
+.home-banner-content .content-banner-home h2 {
+    font-size: 48px;
+}
+.home-banner
+.home-banner-content .content-banner-home h3 {
+    font-size: 28px;
+}
+.fast-house-box
+.lindsey-coustomer
+.cindsy-conte span {
+    font-size: 32px;
+}
+.our-customers
+.testimonial-box
+.testimonial-slider
+.maid-never
+.the-maid-content {
+    height: 400px;
+    padding: 48px 350px 48px 48px;
+}
+.our-customers
+.testimonial-box
+.slick-next,.our-customers
+.testimonial-box .slick-prev {
+    top: 60%;
+}
+.footer-missout{
+    .btn-box{
+    width:75% !important;
+}
+}
+.professional-house-servie
+.profesttional-service-content h3 {
+    font-size: 40px;
+}
+.professional-house-servie
+.profesttional-service-content h4 {
+    margin-left: 0px;
+}
+.our-customers
+.testimonial-title h2 {
+    margin-bottom: 20px !important;
+}
+.ready-get--quote
+.ready-quote--content
+.btn-box .btn-bordered-colored {
+    font-size: 16px;
+}
+.need-more-cleaning-option
+.all-service
+.all-service-slider
+.service-box-one
+.sercice-img-one {
+    padding: 4px;
+}
+.maids-blog-banner
+.trending-blogs h2 {
+    font-size: 24px;
+}
+.maids-blog-banner
+.trending-blog-one
+.trending-content span {
+    font-size: 11px;
+}
+.maids-blog-banner
+.maild-blg-bnr h2 {
+    font-size: 48px;
+}
+.maids-blog-banner
+.maild-blg-bnr h3 {
+    margin-top: 24px;
+}
+.cleaning-tips-hacks
+.portrait-blog
+.main-blog
+.min-blog-img {
+    height: 230px;
+}
+.cleaning-tips-hacks
+.portrait-blog
+.main-blog
+.main-blog-content {
+    padding: 16px;
+}
+.cleaning-tips-hacks
+.portrait-blog
+.main-blog
+.main-blog-content h3 {
+    font-size: 22px;
+}
+
+}
+@media screen and (max-width:991px){
+    .fast-house-box .lindsey-coustomer .cindsy-conte span {
+    font-size: 24px;
+}
+.home-banner .home-banner-content .content-banner-home h2 {
+    font-size: 32px;
+}
+.home-banner .home-banner-content .content-banner-home h3 {
+    font-size: 20px;
+}
+.home-banner
+.home-banner-content .content-banner-home span {
+    font-size: 40px;
+}
+.home-banner
+.home-banner-content
+.find-made-search span.input-group-text {
+    font-size: 14px;
+    padding: 12px 8px;
+}.home-banner
+.find-made-search .form-control {
+    font-size: 12px;
+}
+.fast-house-box
+.quote-content p {
+    font-size: 15px;
+}
+.why-choose-maids
+.row .col-lg-4:nth-child(odd) {
+    margin-top: 0px;
+}
+.get-a-quote
+.get-form-sec h2 {
+    font-size: 32px;
+}.our-customers
+.testimonial-box
+.testimonial-slider
+.maid-never
+.para p {
+    font-size: 18px;
+}
+.our-customers .testimonial-box .slick-next, .our-customers .testimonial-box .slick-prev {
+    top: 53%;
+}
+.footer .row .col-md-6:nth-child(1){
+    order:-1;
+}
+.footer .row .col-md-6:nth-child(4){
+    order:-1;
+}
+.get-a-quote
+.get-form-sec {
+    max-width: 56%;
+}
+.fast-house-box
+.quote-content p::before {
+    left: -8px;
+}
+.fast-house-box
+.quote-content p::after {
+    bottom: 6px;
+}
+.cleaning-service-we-offer
+.one-time-clean-content h3 span {
+    font-size: 35px;
+}
+.cleaning-service-we-offer
+.one-time-clean-content h2 {
+    font-size: 35px;
+    margin-bottom: 25px;
+}
+.professional-house-servie .profesttional-service-content h3 {
+    font-size: 32px;
+}
+.professional-house-servie
+.profesttional-service-content h4 {
+    font-size: 28px;
+}
+.professtionsl-service-sec ul li {
+    width: 100%;
+    max-width: 19%;
+    margin: 8px 0;
+}
+.professtionsl-service-sec ul li .one-time-serve-icon img{
+        width:100%;
+}
+.Sign-up-tips
+.tips-tricks h2 {
+    font-size: 40px;
+}
+.Sign-up-tips
+.tips-tricks
+.input-text-or-btn input {
+    max-width: 65%;
+}
+.maids-blog-banner .maild-blg-bnr h2 {
+    font-size: 32px;
+}
+.maids-blog-banner
+.maild-blg-bnr h3 span {
+    font-size: 38px;
+}
+.blog-detail-banner .main-blog .maild-blg-bnr h2 {
+    font-size: 30px;
+}
+.blog-detail-content h2 {
+    font-size: 30px;
+}
+.focus-on-health
+.focus-health-content
+.accordion-body
+.make-content {
+    padding-right: 0px;
+}
+.focus-on-health
+.focus-health-content
+.accordion-body
+.make-content p {
+    font-size: 16px;
+    font-weight: 500;
+}
+.ready-get--quote
+.ready-quote--content {
+    padding: 24px 26px;
+}
+.header .header-main .navbar-collapse{
+    position: absolute;
+    top: 69px;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+    background-color: #ffffff;
+    z-index: 9999;
+}
+.header .header-main .navbar-collapse .navbar-nav .nav-item{
+    padding:8px 0;
+    margin:8px 0;
+}
+.header-main
+.navbar
+.navbar-nav .nav-item a {
+    width: fit-content;
+}
+}
+@media screen and (max-width:767px){
+    .cleaning-service-we-offer .service-main-box .btn-box .btn-bordered-colored{
+                    max-width: 140px;
+        }
+        .cleaning-service-we-offer .service-main-box .btn-box .btn-bordered-colored a{
+                    font-size: 16px;
+        }
+    .cleaning-service-we-offer .service-main-box .btn-box .btn-bordered {
+    max-width: 205px;
+}
+  .cleaning-service-we-offer .service-main-box .btn-box .btn-bordered a{
+    font-size: 16px;
+}
+.get-a-quote .get-form-sec {
+    max-width: 90%;
+    left:50%;
+}
+.our-customers
+.testimonial-box
+.testimonial-slider
+.maid-never
+.maid-never-img {
+    right: 4%;
+    max-width: 90%;
+}
+.our-customers .testimonial-box .testimonial-slider .maid-never .the-maid-content {
+    height: 450px;
+    padding: 200px 17px 8px 16px;
+    max-width:100%;
+}
+.our-customers .testimonial-box .slick-next, .our-customers .testimonial-box .slick-prev {
+    top: 100%;
+}
+.exclusive-partners .row:nth-child(2) .col-lg-5:nth-child(2){
+    order:-1;
+}
+.about-banner .row .col-lg-6:nth-child(2){
+    order:-1;
+}
+.approch-team-sec
+.approach-content h2 {
+    font-size: 32px;
+}
+.approach-content .tems-sec-detsl .row:nth-child(2) .col-lg-5{
+    order:-1;
+}
+.approach-content .tems-sec-detsl .team-img{
+    width:100%;
+    max-width:50%;
+}
+.should-professional-cleaning
+.should-professional-content {
+    max-width: 90%;
+}
+.professtionsl-service-sec ul li {
+    max-width: 32%;
+}
+.cleaning-tips-hacks .cle-tile-blos{
+    flex-wrap:wrap;
+}
+.cleaning-tips-hacks .cle-tile-blos .btn-box{
+    width:100% !important;
+}
+.btn-box
+.btn-bordered-colored a {
+    font-size: 16px;
+}
+.Sign-up-tips
+.tips-tricks {
+    padding: 32px 12px;
+}
+.Sign-up-tips .tips-tricks .input-text-or-btn input {
+    max-width: 62%;
+}
+.blog-detail-banner .main-blog .maild-blg-bnr {
+    width: 75%;
+}
+.need-more-cleaning-option
+.all-service
+.all-service-slider {
+    padding: 0 32px;
+}
+.need-more-cleaning-option
+.all-service
+.slick-prev {
+    left: 0px;
+}
+}
